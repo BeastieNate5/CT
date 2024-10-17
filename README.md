@@ -9,4 +9,4 @@ For CT to work it needs to infect hosts. We will get this to happen by having ho
 ![diagram](https://github.com/BeastieNate5/CT/blob/main/assets/diagram.jpeg?raw=true)
 
 ## Modules
-CT will be built around modules. Modules are custom scripts that preform a action on the client. For example we could have a process opener module that allows commanders to open process on infected hosts. Modules will most likely be C programs that will be converted into indepedent shellcode then sent to the infected hosts
+CT will be built around modules. Modules are custom scripts that preform a action on the client. For example we could have a process opener module that allows commanders to open process on infected hosts. Modules will most likely be C programs that will be converted into indepedent shellcode then sent to the infected hosts. If you wanted you could create your own custom modules that you would want to be executed on the infected clients
